@@ -36,8 +36,3 @@ Busquei focar em um layout limpo, boa experiência para o usuário e algo que re
 </p>
 
 <hr>
-
-<h2>🔗 Acesse o projeto</h2>
-<p>
-(Adicionarei o link quando fizer o deploy na Vercel)
-</p>
