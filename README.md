@@ -35,4 +35,7 @@ Busquei focar em um layout limpo, boa experiência para o usuário e algo que re
 ⚠️ O número de contato foi alterado para preservar a privacidade.
 </p>
 
-<hr>
+<h2>🔗 Acesse o projeto</h2>
+<p>
+https://project-boreal-doces.vercel.app/
+</p>
